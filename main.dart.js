@@ -8589,9 +8589,9 @@ l=J.av4(J.z(p.h(h,f),"BARCODE")!=null?J.aw(J.z(p.h(h,f),"BARCODE")):"",3,13)
 k=J.av4(J.z(p.h(h,f),"BARCODE")!=null?J.aw(J.z(p.h(h,f),"BARCODE")):"",13,21)
 j=B.h.j(a)
 a0=J.z(p.h(h,f),"OK")!=null?J.aw(J.z(p.h(h,f),"OK")):""
-a1=J.z(p.h(h,f),"WNG")!=null?J.aw(J.z(p.h(h,f),"WNG")):""
+a1=J.z(p.h(h,f),"AENG")!=null?J.aw(J.z(p.h(h,f),"AENG")):""
 a2=J.z(p.h(h,f),"NG")!=null?J.aw(J.z(p.h(h,f),"NG")):""
-a3=J.z(p.h(h,f),"AENG")!=null?J.aw(J.z(p.h(h,f),"AENG")):""
+a3=J.z(p.h(h,f),"WNG")!=null?J.aw(J.z(p.h(h,f),"WNG")):""
 g.push(new A.LV(o,n,m,l,k,"","",j,a0,a1,a2,a3,B.d.M(e/a*100,2),B.d.M(b/a*100,2),B.d.M(c/a*100,2),B.d.M(d/a*100,2)))}p=$.Zx()
 o=p.a
 n=p.b
